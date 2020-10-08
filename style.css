@@ -60,3 +60,12 @@ h3{
 .p-ff{
     font-size: 1.4rem;
 }
+@media(max-width:600px){
+    .alb-pic{
+        position: relative;
+        left: 30%;
+    }
+    .hero-img{
+        margin-top: 30%;
+}
+    }
