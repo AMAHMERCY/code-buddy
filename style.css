@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* body */
+.bob{
+    background:rgb(199, 197, 197);
+}
+/* navbar */
+nav{
+    background: #000 !important;
+    
+
+}
+ul li{
+    margin-left: 2.5rem;
+}
+.button{
+    position: fixed !important;
+    width: 100%;
+}
+ /* hero image */
+.hero-img{
+    position: relative;
+    margin-top: 5rem;
+    
+}
+.alb-pic{
+    position: relative;
+    left: 42%;
+    width: 230px;
+}
+h1{
+    text-align: center;
+    color: rgb(120, 120, 199);
+
+}
+h3{
+    text-align: center;
+    color: green;
+}
+/* ul/li */
+.p-faa{
+    text-align: center;
+}
+.p-faaa{
+    margin-left: 35%;
+}
+.p-fa{
+    color:rgb(177, 9, 177);
+    font-size: 1.2rem;
+}
+.p-fa a{
+    color: rgb(120, 120, 199);
+}
+.p-fa a:hover{
+    color: rgb(65, 65, 126);
+}
+.p-ff{
+    font-size: 1.4rem;
+}
